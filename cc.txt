@@ -1,6 +1,3 @@
 hello
-<<<<<<< HEAD
 ccc
-=======
-ddd
->>>>>>> a64d2cead6002bf7f1e633166d34589e6c5e7fb2
+hihih
